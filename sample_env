@@ -1,0 +1,3 @@
+MONGO_URL=mongo_url should be here.
+PORT=Port no should be here.
+DATABASE_NAME=Name of the database should be here.
